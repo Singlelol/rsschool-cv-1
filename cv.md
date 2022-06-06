@@ -48,4 +48,4 @@ I'm a beginner front-end web developer. At the moment I don't have much experien
 ## Languages:
 Russian - Nativ
 
-English - A1 (For my level, I can read and understand the text quite well).
+English - A1 (For my level, I can read and understand the text quite well)
